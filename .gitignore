@@ -1,0 +1,5 @@
+# Ignorar la carpeta .idea (config e IntelliJ)
+.idea/
+
+# Ignora config el proyecto de IntelliJ
+*.iml
